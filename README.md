@@ -18,4 +18,5 @@ Passed chapter 13 test (just - 90.37% accuracy, 12 wpm). Moved onto chapter 14. 
 
 ## 2024-07-12 (Day 30)
 
-Did the first drill in chapter 15. Took me half an hour (9wpm, but had the hints up for the first 2 repetitions, then hidden for the third). 82%, but I think worse than that. Had to look things up some. Pretty sure I'm going to be here for a while...
+Did the first drill in chapter 15. Took me half an hour (9wpm, but had the hints up for the first 2 repetitions, then hidden for the third). 82%, but I think worse than that. Had to look things up some. Pretty sure I'm going to be here for a while.
+Second attempt at the same drill: 10wpm, 84% (hints off until mistake).
