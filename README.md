@@ -15,3 +15,7 @@ Working on lapwing chapter 13 test. Very slow, but have just about cemented the 
 ## 2024-07-11 (Day 29)
 
 Passed chapter 13 test (just - 90.37% accuracy, 12 wpm). Moved onto chapter 14. Ran through the suffix keys and compound words drills. Chap 14 has no test, so onto 15 tomorrow.
+
+## 2024-07-12 (Day 30)
+
+Did the first drill in chapter 15. Took me half an hour (9wpm, but had the hints up for the first 2 repetitions, then hidden for the third). 82%, but I think worse than that. Had to look things up some. Pretty sure I'm going to be here for a while...
