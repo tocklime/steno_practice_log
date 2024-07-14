@@ -24,3 +24,6 @@ Second attempt at the same drill: 10wpm, 84% (hints off until mistake).
 ## 2024-07-133 (Day 31)
 
 Staying on the first exercise in chapter 15. Feel like I want it to be solid and quick before I move on. 11wpm, 85.92%.
+
+## 2024-07-14 (Day 32)
+Same test. 14wpm, 88.88%. Know /what/ i'm doing. Just need to do it with more accuracy.
