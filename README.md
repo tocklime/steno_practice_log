@@ -27,3 +27,7 @@ Staying on the first exercise in chapter 15. Feel like I want it to be solid and
 
 ## 2024-07-14 (Day 32)
 Same test. 14wpm, 88.88%. Know /what/ i'm doing. Just need to do it with more accuracy.
+2nd exercise in chap 15 (KWR joining) 7wpm, 71%
+
+## 2024-07-15 (Day 33)
+Ch 15, ex 2 again. 9wpm 80%, then 12wpm, 89.62%. I got fed up of the american pronounciation in 'airogant' and 'airomatic', so have started my own `british_pronounciations.json` dictionary.
