@@ -31,3 +31,6 @@ Same test. 14wpm, 88.88%. Know /what/ i'm doing. Just need to do it with more ac
 
 ## 2024-07-15 (Day 33)
 Ch 15, ex 2 again. 9wpm 80%, then 12wpm, 89.62%. I got fed up of the american pronounciation in 'airogant' and 'airomatic', so have started my own `british_pronounciations.json` dictionary.
+
+## 2024-07-16 (Day 34)
+Lapwing ch 15, exercise 3. 5wpm, 53.3%. Yikes that was hard. The-ya-tri-cal. Even N-eye-eve tripped me up more than once. Lots of words I don't know, let alone know how an american would say them (not got round to configuring warbler yet).
