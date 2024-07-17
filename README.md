@@ -34,3 +34,6 @@ Ch 15, ex 2 again. 9wpm 80%, then 12wpm, 89.62%. I got fed up of the american pr
 
 ## 2024-07-16 (Day 34)
 Lapwing ch 15, exercise 3. 5wpm, 53.3%. Yikes that was hard. The-ya-tri-cal. Even N-eye-eve tripped me up more than once. Lots of words I don't know, let alone know how an american would say them (not got round to configuring warbler yet).
+
+## 2024-07-17 (Day 35)
+Lapwing ch 15, exercise 3. 9wpm, 73.33%. Improving. Have got my [dictionaries](https://github.com/tocklime/plover_dictionaries) set up now, so hopefully less confusion on pronounciation.
