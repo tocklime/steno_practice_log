@@ -37,3 +37,7 @@ Lapwing ch 15, exercise 3. 5wpm, 53.3%. Yikes that was hard. The-ya-tri-cal. Eve
 
 ## 2024-07-17 (Day 35)
 Lapwing ch 15, exercise 3. 9wpm, 73.33%. Improving. Have got my [dictionaries](https://github.com/tocklime/plover_dictionaries) set up now, so hopefully less confusion on pronounciation.
+
+## 2024-07-18 (Day 36)
+Lapwing ch 15 test. 11wpm, 86.66%. Much closer that I thought it was going to be, and that included some accidental presses because my fingers are too heavy...
+
