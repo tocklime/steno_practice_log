@@ -41,3 +41,7 @@ Lapwing ch 15, exercise 3. 9wpm, 73.33%. Improving. Have got my [dictionaries](h
 ## 2024-07-18 (Day 36)
 Lapwing ch 15 test. 11wpm, 86.66%. Much closer that I thought it was going to be, and that included some accidental presses because my fingers are too heavy...
 
+## 2024-07-19 (Day 37)
+Lapwing ch 15 test again. 14wpm, 86.66%. Faster but exactly as wrong. interesting.
+
+
