@@ -45,3 +45,5 @@ Lapwing ch 15 test. 11wpm, 86.66%. Much closer that I thought it was going to be
 Lapwing ch 15 test again. 14wpm, 86.66%. Faster but exactly as wrong. interesting.
 
 
+## 2024-07-21 (Day 39)
+Lapwing ch 15 test. 11wpm, 84%, then 14wpm, 91.11%. Awesome, I get to move on.
