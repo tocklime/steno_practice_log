@@ -51,4 +51,5 @@ Lapwing ch 15 test. 11wpm, 84%, then 14wpm, 91.11%. Awesome, I get to move on. S
 ## 2024-07-22 (Day 40)
 Lapwing chapter 17 - ran through the first 3 exercises, going fairly slowly throughout. Also did some stenojig practice, getting about 12wpm, with the occasional look up.
 
-
+## 2024-07-23 (Day 41)
+Lapwing chapter  17 did the e folding exercise. 12wpm, 82% accuracy. Slow going. Will try all the folding techniques together tomorrow.
