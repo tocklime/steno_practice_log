@@ -53,3 +53,6 @@ Lapwing chapter 17 - ran through the first 3 exercises, going fairly slowly thro
 
 ## 2024-07-23 (Day 41)
 Lapwing chapter  17 did the e folding exercise. 12wpm, 82% accuracy. Slow going. Will try all the folding techniques together tomorrow.
+
+## 2024-07-24 (Day 42)
+Lapwing chapter 17, all folding exerecise. 11wpm, 82.22% accurante.
